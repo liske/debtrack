@@ -1,3 +1,11 @@
+debtrack (0.09) unstable; urgency=low
+
+  * Changes:
+    - fix typo in crontab (s/text/test/)
+    - add LICENSE file
+
+ -- Thomas Liske <liske@ibh.de>  Mon, 26 Feb 2018 09:39:16 +0100
+
 debtrack (0.08) unstable; urgency=low
 
   * Changes:
